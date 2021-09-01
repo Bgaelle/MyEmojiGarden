@@ -1,0 +1,88 @@
+body {
+    background-color: rgb(194, 228, 194) ;
+}
+
+h1 {
+    text-align: center;
+    color:green;
+}
+.App{
+    font-family : sans-serif;
+    text-align: center;
+}
+
+.cell{
+    border: 1px solid rgb(71, 182, 71);
+    background-color: rgb(194, 228, 194);
+}
+
+/* .garden {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+} */
+
+.flexContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+  }
+
+.gardenContainer{
+    margin-top: 1%;
+    display: grid;
+    grid-template-columns: repeat(5, 40px);
+    grid-template-rows: repeat(5, 40px);
+    justify-content: center;
+    gap:0;
+    text-align: center;
+    }
+
+.boutonPlant {
+    /* width: 100%; */
+    /* margin-left: 600px; */
+    /* display: flex; */
+    text-align: center;
+    width: max-content;
+    align-items: center;
+    height: 20px;
+    margin-top: 5px;
+    margin-left: 50px;
+    background-color: rgb(202, 148, 32);
+    border: transparent;
+    color: cornsilk;
+    border-radius: 5px;
+    font-size: medium;
+}
+
+.Plant{
+    /* display: flex; */
+    width: max-content;
+    height: max-content;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    text-align: center;
+    margin: auto;
+    /* background-color: rgb(19, 19, 177);
+    color: cornsilk; */
+}
+
+.boutonAdd {
+    /* width: 100%; */
+    /* margin-left: 600px; */
+    margin-left: 575px; 
+    text-align: center;
+    width: 150px;
+    height: 25px;
+    margin-top: 1%;
+    background-color: rgb(19, 177, 53);
+    color: cornsilk;
+    border: transparent;
+    border-radius: 10px;
+    font-size: large;
+}
+    

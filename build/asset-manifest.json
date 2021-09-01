@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/EmojiGarden/static/css/main.4ee6d8b9.chunk.css",
+    "main.js": "/EmojiGarden/static/js/main.213bc348.chunk.js",
+    "main.js.map": "/EmojiGarden/static/js/main.213bc348.chunk.js.map",
+    "runtime-main.js": "/EmojiGarden/static/js/runtime-main.946da790.js",
+    "runtime-main.js.map": "/EmojiGarden/static/js/runtime-main.946da790.js.map",
+    "static/js/2.25df9023.chunk.js": "/EmojiGarden/static/js/2.25df9023.chunk.js",
+    "static/js/2.25df9023.chunk.js.map": "/EmojiGarden/static/js/2.25df9023.chunk.js.map",
+    "index.html": "/EmojiGarden/index.html",
+    "static/css/main.4ee6d8b9.chunk.css.map": "/EmojiGarden/static/css/main.4ee6d8b9.chunk.css.map",
+    "static/js/2.25df9023.chunk.js.LICENSE.txt": "/EmojiGarden/static/js/2.25df9023.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.946da790.js",
+    "static/js/2.25df9023.chunk.js",
+    "static/css/main.4ee6d8b9.chunk.css",
+    "static/js/main.213bc348.chunk.js"
+  ]
+}
